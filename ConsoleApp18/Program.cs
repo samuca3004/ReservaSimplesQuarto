@@ -31,7 +31,7 @@ namespace ConsoleApp18
             }
             Console.WriteLine();
             Console.WriteLine("Quartos ocupados");
-
+            
             foreach (Cliente alug in alugado)
             {
                 Console.WriteLine(alug);
