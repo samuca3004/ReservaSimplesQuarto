@@ -31,11 +31,10 @@ namespace ConsoleApp18
             }
             Console.WriteLine();
             Console.WriteLine("Quartos ocupados");
-            for (int i = 0; i < quartos; i++)
+
+            foreach (Cliente alug in alugado)
             {
-
-                Console.WriteLine(alugado[i]);
-
+                Console.WriteLine(alug);
             }
 
         }
