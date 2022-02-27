@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Reserva de quartos utilizando array
+// Reserva de quartos simples utilizando array
 
 namespace ConsoleApp18
 {
